@@ -9,3 +9,5 @@ eleventyNavigation:
 I am a person that writes stuff.
 
 This is my first experiment with creating a personal web site since I first dabbled in static HTML pages many decades ago!
+
+![These are not the droids you are looking for](notthedroids.png)
